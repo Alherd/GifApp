@@ -1,5 +1,5 @@
 # GifApp
-The "GifApp" project loads and shows the GIFs that the user requests.
+The "GifApp" project loads and shows the GIFs that the user requests. Application works with GSON provided by Giphy Api.
 **********************************************************************
 To build the project, use Gradle version 3.0.1.
 
