@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GifApp</string>
+    <string name="content">content</string>
+    <string name="loading">Loading</string>
+    <string name="searching">searching</string>
+    <string name="connection_error">Connection error</string>
+    <string name="loading_error">Loading failed</string>
+    <string name="nothing_result">Nothing found on your request</string>
+    <string name="trending">trend</string>
+</resources>
